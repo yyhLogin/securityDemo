@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.web.properties.SecurityProperties",
+      "name": "imooc.security",
+      "type": "com.web.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.web.properties.SecurityProperties",
+      "name": "imooc.security.browser",
+      "type": "com.web.properties.BrowserProperties"
+    },
+    {
+      "name": "imooc.security.browser.loginPage",
+      "description": "Description for imooc.security.browser.loginPage.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "imooc.security.browser.loginType",
+      "description": "Description for imooc.security.browser.loginType.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "mybatis-plus.mapper-locations.typeAliasesPackage",
+      "description": "Description for mybatis-plus.mapper-locations.typeAliasesPackage.",
+      "type": "java.lang.String"
+    }
+  ]
+}

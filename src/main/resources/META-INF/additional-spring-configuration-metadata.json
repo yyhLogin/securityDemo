@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "mybatis-plus.mapper-locations.typeAliasesPackage",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.mapper-locations.typeAliasesPackage."
+    },
+    {
+      "name": "imooc.security.browser.loginType",
+      "type": "java.lang.String",
+      "description": "Description for imooc.security.browser.loginType."
+    },
+    {
+      "name": "imooc.security.browser.loginPage",
+      "type": "java.lang.String",
+      "description": "Description for imooc.security.browser.loginPage."
+    }
+  ] }
